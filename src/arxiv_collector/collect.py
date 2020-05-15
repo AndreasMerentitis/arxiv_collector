@@ -1,7 +1,7 @@
 import argparse
 from datetime import date, timedelta
 import pandas as pd
-from . import collect
+import collector
 
 def main():
     parser = argparse.ArgumentParser()

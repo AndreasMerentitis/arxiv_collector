@@ -1,0 +1,3 @@
+[console_scripts]
+arxiv-collect = arxiv_collector.collect:main
+

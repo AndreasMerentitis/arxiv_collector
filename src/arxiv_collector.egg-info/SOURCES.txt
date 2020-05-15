@@ -1,0 +1,12 @@
+.gitignore
+README.md
+setup.py
+src/arxiv_collector/__init__.py
+src/arxiv_collector/collect.py
+src/arxiv_collector/collector.py
+src/arxiv_collector/preprocessing.py
+src/arxiv_collector.egg-info/PKG-INFO
+src/arxiv_collector.egg-info/SOURCES.txt
+src/arxiv_collector.egg-info/dependency_links.txt
+src/arxiv_collector.egg-info/entry_points.txt
+src/arxiv_collector.egg-info/top_level.txt
