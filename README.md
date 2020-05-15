@@ -20,6 +20,6 @@ downloads all Astro-ph abstracts appears in 2015 and save it in Pandas' HDF5 for
 Downloading abstracts for a single year takes around a bit more than 20 minutes.
 
 ## About
-Author: Wing-Kit Lee (wingkitlee0@outlook.com)
-Extensions: Andreas Merentitis (andreas.merentitis@gmail.com)
+* Author: Wing-Kit Lee (wingkitlee0@outlook.com)
+* Extensions: Andreas Merentitis (andreas.merentitis@gmail.com)
 
