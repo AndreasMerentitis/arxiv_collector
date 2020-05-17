@@ -156,9 +156,9 @@ jupyter-client==5.3.4
 jupyter-console==6.0.0
 jupyter-core==4.6.0
 jupyter-repo2docker==0.11.0
-Keras==2.2.0
+Keras==2.3.1
 Keras-Applications==1.0.8
-Keras-Preprocessing==1.1.2
+Keras-Preprocessing==1.0.5
 kiwisolver==1.0.1
 langdetect==1.0.7
 lazy-object-proxy==1.4.2
@@ -325,6 +325,7 @@ terminado==0.8.2
 testpath==0.4.2
 textblob==0.15.3
 textteaser==0.3
+Theano==1.0.4
 thinc==7.1.1
 thrift==0.11.0
 toml==0.10.0
